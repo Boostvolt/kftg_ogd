@@ -3,8 +3,8 @@
 </p>
 
 # OGD
-[![Platform](http://img.shields.io/badge/platform-iOS%20%7C%20iPadOS%20%7C%20tvOS%20%7C%20macOS-lightgrey.svg?style=flat)](https://github.com/Sharix-AI)
 [![License](https://img.shields.io/badge/license-GPL_v3-373737.svg?style=flat)](https://github.com/Boostvolt/kftg_ogd/blob/master/LICENSE.md)
+
 Implementierung für offene Verwaltungsdaten in der Schweiz mit Hilfe einer Webseite.
 
 Diese Ressource wurde zu Demonstrationszwecken erstellt. Diese kann in Zukunft in Frameworks integriert werden und/oder eine eigene Server Side/Persistenzlogik enthalten.
