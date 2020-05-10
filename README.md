@@ -1,3 +1,7 @@
+<p align="left " >
+  <img src="https://github.com/Boostvolt/kftg_ogd/blob/master/opendata.png" alt="Sharix Movies" title="Sharix Movies">
+</p>
+
 # OGD
 Implementierung für offene Verwaltungsdaten in der Schweiz mit Hilfe einer Webseite.
 
