@@ -1,5 +1,5 @@
 <p align="left " >
-  <img src="https://github.com/Boostvolt/kftg_ogd/blob/master/logo.png" alt="Sharix Movies" title="Sharix Movies">
+  <img src="https://github.com/Boostvolt/kftg_ogd/blob/master/img/ogd.png" alt="OGD" title="OGD">
 </p>
 
 # OGD
