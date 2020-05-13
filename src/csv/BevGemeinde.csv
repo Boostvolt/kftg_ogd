@@ -1,0 +1,3197 @@
+﻿BFS_NR_GEMEINDE;GEMEINDE_NAME;BEZIRK_NR;BEZIRK_NAME;JAHR;GESCHLECHT_CODE;GESCHLECHT_BEZEICHNUNG;NATIONALITAET_CODE;NATIONALITAET_BEZEICHNUNG;ANZAHL_PERSONEN;MALE;FEMALE;SWISS;NOTSWISS
+4401;Arbon;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;4818;7379;7339;9908;4810
+4401;Arbon;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;2561; ;;;
+4401;Arbon;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;5090;;;;
+4401;Arbon;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;2249; ;;;
+4406;Dozwil;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;286;348;336;578;106
+4406;Dozwil;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;62; ;;;
+4406;Dozwil;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;292;;;;
+4406;Dozwil;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;44; ;;;
+4411;Egnach;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;2061;2396;2291;4063;624
+4411;Egnach;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;335; ;;;
+4411;Egnach;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;2002;;;;
+4411;Egnach;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;289; ;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;524;617;584;1025;176
+4416;Hefenhofen;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;93; ;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;501;;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;83; ;;;
+4421;Horn;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;1159;1431;1467;2370;528
+4421;Horn;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;272; ;;;
+4421;Horn;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;1211;;;;
+4421;Horn;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;256; ;;;
+4426;Kesswil;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;387;477;523;825;175
+4426;Kesswil;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;90; ;;;
+4426;Kesswil;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;438;;;;
+4426;Kesswil;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;85; ;;;
+4431;Roggwil;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;1382;1564;1518;2757;325
+4431;Roggwil;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;182; ;;;
+4431;Roggwil;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;1375;;;;
+4431;Roggwil;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;143;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;3658;5540;5696;7709;3527
+4436;Romanshorn;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;1882; ;;;
+4436;Romanshorn;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;4051;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;1645;;;;
+4441;Salmsach;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;521;747;707;1045;409
+4441;Salmsach;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;226; ;;;
+4441;Salmsach;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;524;;;;
+4441;Salmsach;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;183;;;;
+4446;Sommeri;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;240;304;304;509;99
+4446;Sommeri;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;64; ;;;
+4446;Sommeri;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;269;;;;
+4446;Sommeri;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;35;;;;
+4451;Uttwil;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;770;946;943;1545;344
+4451;Uttwil;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;176; ;;;
+4451;Uttwil;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;775;;;;
+4451;Uttwil;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;168;;;;
+4461;Amriswil;2011;Bezirk Arbon;2019;1;Männlich;1;Schweiz;4507;6859;6886;9329;4416
+4461;Amriswil;2011;Bezirk Arbon;2019;1;Männlich;2;Ausland;2352; ;;;
+4461;Amriswil;2011;Bezirk Arbon;2019;2;Weiblich;1;Schweiz;4822;;;;
+4461;Amriswil;2011;Bezirk Arbon;2019;2;Weiblich;2;Ausland;2064;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;2168;3016;2947;4399;1564
+4471;Bischofszell;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;848; ;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;2231;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;716;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1387;1927;1837;2759;1005
+4476;Erlen;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;540; ;;;
+4476;Erlen;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1372;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;465;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;930;1034;953;1799;188
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;104; ;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;869;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;84;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;278;298;286;541;43
+4495;Hohentannen;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;20; ;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;263;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;23;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1350;1848;1757;2712;893
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;498; ;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1362;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;395;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1401;1967;1934;2867;1034
+4506;Sulgen;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;566; ;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1466;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;468;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1088;1266;1170;2109;327
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;178; ;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1021;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;149;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;799;935;893;1558;270
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;136; ;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;759;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;134;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;1273;2054;1975;2588;1441
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;781; ;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;1315;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;660;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;749;870;901;1544;227
+4546;Schlatt;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;121; ;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;795;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;106;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;3778;4538;4490;7621;1407
+4551;Aadorf;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;760; ;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;3843;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;647;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;1151;1489;1369;2269;589
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;338; ;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;1118;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;251;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;9334;12577;13045;19493;6129
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;3243; ;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;10159;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;2886;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;1891;2260;2183;3789;654
+4571;Gachnang;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;369; ;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;1898;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;285;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;399;441;399;758;82
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;42; ;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;359;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;40;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;1068;1514;1444;2165;793
+4591;Matzingen;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;446; ;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;1097;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;347;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;505;539;501;974;66
+4601;Neunforn;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;34; ;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;469;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;32;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;554;607;621;1126;102
+4606;Stettfurt;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;53; ;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;572;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;49;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;710;776;710;1373;113
+4611;Thundorf;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;66; ;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;663;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;47;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;481;540;538;981;97
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;59; ;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;500;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;38;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;589;674;660;1178;156
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;85; ;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;589;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;71;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;865;1106;1174;1796;484
+4641;Altnau;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;241; ;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;931;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;243;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;756;1153;1142;1524;771
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;397; ;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;768;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;374;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;1153;1755;1766;2401;1120
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;602; ;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;1248;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;518;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;92;163;168;197;134
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;71; ;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;105;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;63;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;661;848;808;1312;344
+4656;Güttingen;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;187; ;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;651;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;157;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;1070;1330;1261;2107;484
+4666;Kemmental;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;260; ;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;1037;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;224;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;4723;11127;11066;10027;12166
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;6404; ;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;5304;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;5762;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;546;659;615;1056;218
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;113; ;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;510;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;105;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;618;860;878;1260;478
+4683;Lengwil;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;242; ;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;642;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;236;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;1055;1730;1765;2200;1295
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;675; ;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;1145;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;620;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;1474;2374;2391;3006;1759
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;900; ;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;1532;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;859;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;432;536;513;852;197
+4701;Wäldi;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;104; ;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;420;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;93;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1122;1362;1241;2188;415
+4711;Affeltrangen;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;240; ;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1066;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;175;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;486;641;582;945;278
+4716;Bettwiesen;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;155; ;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;459;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;123;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;1313;1492;1381;2556;317
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;179; ;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;1243;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;138;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;372;413;401;739;75
+4723;Braunau;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;41; ;;;
+4723;Braunau;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;367;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;34;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;1931;2269;2195;3829;635
+4724;Eschlikon;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;338; ;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;1898;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;297;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;1286;1402;1390;2569;223
+4726;Fischingen;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;116; ;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;1283;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;107;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;524;609;599;1061;147
+4741;Lommis;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;85; ;;;
+4741;Lommis;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;537;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;62;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;2181;2824;2843;4486;1181
+4746;Münchwilen;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;643; ;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;2305;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;538;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;842;1398;1400;1759;1039
+4751;Rickenbach;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;556; ;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;917;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;483;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;404;440;406;783;63
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;36; ;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;379;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;27;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;2913;3937;3846;5895;1888
+4761;Sirnach;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;1024; ;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;2982;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;864;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;670;811;790;1338;263
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;141; ;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;668;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;122;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;2092;2451;2291;4052;690
+4781;Wängi;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;359; ;;;
+4781;Wängi;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;1960;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;331;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2019;1;Männlich;1;Schweiz;1099;1276;1239;2193;322
+4786;Wilen;2014;Bezirk Münchwilen;2019;1;Männlich;2;Ausland;177; ;;;
+4786;Wilen;2014;Bezirk Münchwilen;2019;2;Weiblich;1;Schweiz;1094;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2019;2;Weiblich;2;Ausland;145;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;522;566;552;1040;78
+4791;Wuppenau;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;44; ;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;518;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;34;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;322;446;448;670;224
+4801;Berlingen;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;124; ;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;348;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;100;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;732;934;899;1472;361
+4806;Eschenz;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;202; ;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;740;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;159;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;506;574;537;996;115
+4811;Herdern;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;68; ;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;490;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;47;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;683;753;788;1414;127
+4816;Homburg;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;70; ;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;731;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;57;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;792;891;878;1577;192
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;99; ;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;785;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;93;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;234;325;333;479;179
+4826;Mammern;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;91; ;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;245;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;88;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;1225;1517;1478;2478;517
+4831;Müllheim;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;292; ;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;1253;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;225;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;854;1026;1039;1770;295
+4841;Pfyn;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;172; ;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;916;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;123;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;187;212;201;369;44
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;25; ;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;182;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;19;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2019;1;Männlich;1;Schweiz;482;677;687;981;383
+4851;Salenstein;2013;Bezirk Kreuzlingen;2019;1;Männlich;2;Ausland;195; ;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2019;2;Weiblich;1;Schweiz;499;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2019;2;Weiblich;2;Ausland;188;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;1330;1912;1824;2733;1003
+4864;Steckborn;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;582; ;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;1403;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;421;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2019;1;Männlich;1;Schweiz;649;847;864;1340;371
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2019;1;Männlich;2;Ausland;198; ;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2019;2;Weiblich;1;Schweiz;691;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2019;2;Weiblich;2;Ausland;173;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;601;683;650;1196;137
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;82; ;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;595;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;55;;;;
+4891;Berg;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1477;1735;1709;2957;487
+4891;Berg;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;258; ;;;
+4891;Berg;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1480;;;;
+4891;Berg;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;229;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;568;649;691;1171;169
+4901;Birwinken;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;81; ;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;603;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;88;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1343;2011;1938;2764;1185
+4911;Bürglen;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;668; ;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1421;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;517;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1054;1274;1178;2090;362
+4921;Bussnang;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;220; ;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1036;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;142;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1223;1455;1429;2456;428
+4941;Märstetten;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;232; ;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1233;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;196;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;4421;5867;5692;8899;2660
+4946;Weinfelden;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;1446; ;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;4478;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;1214;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2019;1;Männlich;1;Schweiz;1045;1270;1186;2055;401
+4951;Wigoltingen;2015;Bezirk Weinfelden;2019;1;Männlich;2;Ausland;225; ;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2019;2;Weiblich;1;Schweiz;1010;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2019;2;Weiblich;2;Ausland;176;;;;
+4401;Arbon;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;4758;7268;7265;9853;4680
+4401;Arbon;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;2510; ;;;
+4401;Arbon;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;5095;;;;
+4401;Arbon;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;2170;;;;
+4406;Dozwil;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;292;353;342;589;106
+4406;Dozwil;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;61; ;;;
+4406;Dozwil;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;297;;;;
+4406;Dozwil;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;45;;;;
+4411;Egnach;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;2082;2407;2295;4091;611
+4411;Egnach;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;325; ;;;
+4411;Egnach;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;2009;;;;
+4411;Egnach;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;286;;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;505;599;594;1019;174
+4416;Hefenhofen;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;94; ;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;514;;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;80;;;;
+4421;Horn;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;1103;1357;1391;2270;478
+4421;Horn;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;254; ;;;
+4421;Horn;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;1167;;;;
+4421;Horn;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;224;;;;
+4426;Kesswil;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;381;471;518;805;184
+4426;Kesswil;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;90; ;;;
+4426;Kesswil;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;424;;;;
+4426;Kesswil;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;94;;;;
+4431;Roggwil;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;1366;1547;1512;2728;331
+4431;Roggwil;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;181; ;;;
+4431;Roggwil;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;1362;;;;
+4431;Roggwil;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;150;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;3649;5451;5663;7685;3429
+4436;Romanshorn;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;1802; ;;;
+4436;Romanshorn;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;4036;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;1627;;;;
+4441;Salmsach;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;517;739;704;1047;396
+4441;Salmsach;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;222; ;;;
+4441;Salmsach;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;530;;;;
+4441;Salmsach;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;174;;;;
+4446;Sommeri;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;235;284;288;492;80
+4446;Sommeri;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;49; ;;;
+4446;Sommeri;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;257;;;;
+4446;Sommeri;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;31;;;;
+4451;Uttwil;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;753;934;922;1513;343
+4451;Uttwil;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;181; ;;;
+4451;Uttwil;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;760;;;;
+4451;Uttwil;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;162;;;;
+4461;Amriswil;2011;Bezirk Arbon;2018;1;Männlich;1;Schweiz;4433;6719;6741;9176;4284
+4461;Amriswil;2011;Bezirk Arbon;2018;1;Männlich;2;Ausland;2286; ;;;
+4461;Amriswil;2011;Bezirk Arbon;2018;2;Weiblich;1;Schweiz;4743;;;;
+4461;Amriswil;2011;Bezirk Arbon;2018;2;Weiblich;2;Ausland;1998;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;2179;3034;2951;4412;1573
+4471;Bischofszell;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;855; ;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;2233;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;718;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1362;1899;1838;2721;1016
+4476;Erlen;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;537; ;;;
+4476;Erlen;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;1359;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;479;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;904;1003;938;1762;179
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;99; ;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;858;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;80;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;278;303;283;537;49
+4495;Hohentannen;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;25; ;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;259;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;24;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1370;1835;1749;2742;842
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;465; ;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;1372;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;377;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1385;1919;1923;2853;989
+4506;Sulgen;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;534; ;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;1468;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;455;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1060;1233;1152;2064;321
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;173; ;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;1004;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;148;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;799;941;892;1557;276
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;142; ;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;758;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;134;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;1267;2030;1955;2580;1405
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;763; ;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;1313;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;642;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;724;820;878;1511;187
+4546;Schlatt;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;96; ;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;787;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;91;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;3768;4524;4480;7618;1386
+4551;Aadorf;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;756; ;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;3850;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;630;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;1157;1466;1370;2290;546
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;309; ;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;1133;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;237;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;9281;12447;13009;19456;6000
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;3166; ;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;10175;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;2834;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;1836;2197;2150;3708;639
+4571;Gachnang;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;361; ;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;1872;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;278;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;396;443;400;755;88
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;47; ;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;359;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;41;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;1059;1487;1408;2140;755
+4591;Matzingen;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;428; ;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;1081;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;327;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;492;530;502;957;75
+4601;Neunforn;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;38; ;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;465;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;37;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;553;606;601;1110;97
+4606;Stettfurt;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;53; ;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;557;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;44;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;678;744;692;1326;110
+4611;Thundorf;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;66; ;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;648;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;44;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;492;550;535;992;93
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;58; ;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;500;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;35;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;603;685;656;1192;149
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;82; ;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;589;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;67;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;862;1089;1147;1785;451
+4641;Altnau;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;227; ;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;923;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;224;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;730;1104;1115;1483;736
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;374; ;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;753;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;362;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;1134;1713;1741;2367;1087
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;579; ;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;1233;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;508;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;98;167;170;204;133
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;69; ;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;106;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;64;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;638;811;780;1273;318
+4656;Güttingen;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;173; ;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;635;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;145;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;1042;1294;1243;2064;473
+4666;Kemmental;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;252; ;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;1022;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;221;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;4652;11018;10972;9889;12101
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;6366; ;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;5237;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;5735;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;557;671;624;1069;226
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;114; ;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;512;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;112;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;630;858;868;1275;451
+4683;Lengwil;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;228; ;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;645;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;223;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;1055;1727;1749;2182;1294
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;672; ;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;1127;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;622;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;1452;2328;2307;2957;1678
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;876; ;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;1505;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;802;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;433;547;514;856;205
+4701;Wäldi;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;114; ;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;423;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;91;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1095;1321;1225;2155;391
+4711;Affeltrangen;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;226; ;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;1060;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;165;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;487;647;594;951;290
+4716;Bettwiesen;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;160; ;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;464;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;130;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;1310;1479;1384;2550;313
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;169; ;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;1240;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;144;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;351;395;383;701;77
+4723;Braunau;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;44; ;;;
+4723;Braunau;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;350;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;33;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;1895;2221;2136;3746;611
+4724;Eschlikon;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;326; ;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;1851;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;285;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;1283;1404;1379;2558;225
+4726;Fischingen;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;121; ;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;1275;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;104;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;522;601;610;1074;137
+4741;Lommis;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;79; ;;;
+4741;Lommis;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;552;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;58;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;2161;2801;2806;4441;1166
+4746;Münchwilen;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;640; ;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;2280;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;526;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;856;1398;1373;1752;1019
+4751;Rickenbach;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;542; ;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;896;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;477;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;409;449;417;794;72
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;40; ;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;385;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;32;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;2899;3917;3816;5871;1862
+4761;Sirnach;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;1018; ;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;2972;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;844;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;663;808;793;1332;269
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;145; ;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;669;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;124;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;2072;2436;2261;3991;706
+4781;Wängi;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;364; ;;;
+4781;Wängi;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;1919;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;342;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2018;1;Männlich;1;Schweiz;1104;1278;1234;2197;315
+4786;Wilen;2014;Bezirk Münchwilen;2018;1;Männlich;2;Ausland;174; ;;;
+4786;Wilen;2014;Bezirk Münchwilen;2018;2;Weiblich;1;Schweiz;1093;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2018;2;Weiblich;2;Ausland;141;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;524;566;545;1039;72
+4791;Wuppenau;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;42; ;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;515;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;30;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;328;446;447;677;216
+4801;Berlingen;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;118; ;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;349;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;98;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;706;882;859;1423;318
+4806;Eschenz;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;176; ;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;717;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;142;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;486;546;531;975;102
+4811;Herdern;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;60; ;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;489;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;42;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;682;753;789;1414;128
+4816;Homburg;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;71; ;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;732;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;57;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;771;862;864;1553;173
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;91; ;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;782;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;82;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;235;323;328;479;172
+4826;Mammern;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;88; ;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;244;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;84;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;1218;1507;1473;2468;512
+4831;Müllheim;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;289; ;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;1250;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;223;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;840;1004;1006;1723;287
+4841;Pfyn;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;164; ;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;883;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;123;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;192;217;197;371;43
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;25; ;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;179;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;18;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2018;1;Männlich;1;Schweiz;471;661;657;957;361
+4851;Salenstein;2013;Bezirk Kreuzlingen;2018;1;Männlich;2;Ausland;190; ;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2018;2;Weiblich;1;Schweiz;486;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2018;2;Weiblich;2;Ausland;171;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;1342;1906;1836;2770;972
+4864;Steckborn;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;564; ;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;1428;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;408;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2018;1;Männlich;1;Schweiz;638;825;853;1328;350
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2018;1;Männlich;2;Ausland;187; ;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2018;2;Weiblich;1;Schweiz;690;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2018;2;Weiblich;2;Ausland;163;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;603;687;654;1204;137
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;84; ;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;601;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;53;;;;
+4891;Berg;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1459;1712;1694;2934;472
+4891;Berg;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;253; ;;;
+4891;Berg;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;1475;;;;
+4891;Berg;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;219;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;573;649;672;1170;151
+4901;Birwinken;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;76; ;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;597;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;75;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1326;1968;1867;2703;1132
+4911;Bürglen;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;642; ;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;1377;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;490;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1018;1215;1127;2007;335
+4921;Bussnang;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;197; ;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;989;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;138;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1239;1455;1430;2487;398
+4941;Märstetten;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;216; ;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;1248;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;182;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;4419;5799;5684;8918;2565
+4946;Weinfelden;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;1380; ;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;4499;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;1185;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2018;1;Männlich;1;Schweiz;1050;1259;1188;2068;379
+4951;Wigoltingen;2015;Bezirk Weinfelden;2018;1;Männlich;2;Ausland;209; ;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2018;2;Weiblich;1;Schweiz;1018;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2018;2;Weiblich;2;Ausland;170;;;;
+4401;Arbon;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;4701;7198;7232;9787;4643
+4401;Arbon;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;2497; ;;;
+4401;Arbon;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;5086;;;;
+4401;Arbon;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;2146;;;;
+4406;Dozwil;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;295;357;347;595;109
+4406;Dozwil;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;62; ;;;
+4406;Dozwil;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;300;;;;
+4406;Dozwil;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;47;;;;
+4411;Egnach;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;2066;2395;2297;4075;617
+4411;Egnach;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;329; ;;;
+4411;Egnach;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;2009;;;;
+4411;Egnach;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;288;;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;512;601;586;1024;163
+4416;Hefenhofen;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;89; ;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;512;;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;74;;;;
+4421;Horn;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;1106;1357;1380;2271;466
+4421;Horn;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;251; ;;;
+4421;Horn;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;1165;;;;
+4421;Horn;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;215;;;;
+4426;Kesswil;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;388;480;519;807;192
+4426;Kesswil;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;92; ;;;
+4426;Kesswil;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;419;;;;
+4426;Kesswil;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;100;;;;
+4431;Roggwil;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;1364;1539;1517;2726;330
+4431;Roggwil;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;175; ;;;
+4431;Roggwil;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;1362;;;;
+4431;Roggwil;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;155;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;3587;5362;5565;7560;3367
+4436;Romanshorn;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;1775; ;;;
+4436;Romanshorn;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;3973;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;1592;;;;
+4441;Salmsach;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;514;724;687;1024;387
+4441;Salmsach;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;210; ;;;
+4441;Salmsach;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;510;;;;
+4441;Salmsach;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;177;;;;
+4446;Sommeri;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;232;278;287;491;74
+4446;Sommeri;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;46; ;;;
+4446;Sommeri;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;259;;;;
+4446;Sommeri;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;28;;;;
+4451;Uttwil;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;741;930;922;1509;343
+4451;Uttwil;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;189; ;;;
+4451;Uttwil;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;768;;;;
+4451;Uttwil;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;154;;;;
+4461;Amriswil;2011;Bezirk Arbon;2017;1;Männlich;1;Schweiz;4411;6658;6724;9160;4222
+4461;Amriswil;2011;Bezirk Arbon;2017;1;Männlich;2;Ausland;2247; ;;;
+4461;Amriswil;2011;Bezirk Arbon;2017;2;Weiblich;1;Schweiz;4749;;;;
+4461;Amriswil;2011;Bezirk Arbon;2017;2;Weiblich;2;Ausland;1975;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;2171;3026;2948;4402;1572
+4471;Bischofszell;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;855; ;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;2231;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;717;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1357;1879;1785;2694;970
+4476;Erlen;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;522; ;;;
+4476;Erlen;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;1337;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;448;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;902;996;942;1765;173
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;94; ;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;863;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;79;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;286;315;287;548;54
+4495;Hohentannen;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;29; ;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;262;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;25;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1348;1827;1732;2704;855
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;479; ;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;1356;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;376;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1358;1867;1877;2796;948
+4506;Sulgen;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;509; ;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;1438;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;439;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1062;1219;1138;2065;292
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;157; ;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;1003;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;135;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;781;924;883;1533;274
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;143; ;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;752;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;131;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;1243;1985;1904;2542;1347
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;742; ;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;1299;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;605;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;723;826;843;1481;188
+4546;Schlatt;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;103; ;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;758;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;85;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;3738;4483;4360;7486;1357
+4551;Aadorf;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;745; ;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;3748;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;612;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;1149;1447;1343;2249;541
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;298; ;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;1100;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;243;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;9229;12379;12918;19365;5932
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;3150; ;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;10136;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;2782;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;1792;2141;2128;3632;637
+4571;Gachnang;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;349; ;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;1840;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;288;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;391;433;401;757;77
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;42; ;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;366;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;35;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;1043;1436;1404;2122;718
+4591;Matzingen;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;393; ;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;1079;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;325;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;482;518;486;939;65
+4601;Neunforn;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;36; ;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;457;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;29;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;553;614;599;1106;107
+4606;Stettfurt;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;61; ;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;553;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;46;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;682;753;698;1338;113
+4611;Thundorf;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;71; ;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;656;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;42;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;510;560;532;1006;86
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;50; ;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;496;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;36;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;586;659;652;1179;132
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;73; ;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;593;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;59;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;851;1085;1121;1743;463
+4641;Altnau;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;234; ;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;892;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;229;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;733;1080;1084;1474;690
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;347; ;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;741;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;343;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;1132;1658;1713;2372;999
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;526; ;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;1240;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;473;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;97;179;169;202;146
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;82; ;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;105;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;64;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;641;809;795;1286;318
+4656;Güttingen;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;168; ;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;645;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;150;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;1025;1268;1214;2026;456
+4666;Kemmental;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;243; ;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;1001;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;213;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;4601;10889;10906;9869;11926
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;6288; ;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;5268;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;5638;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;565;675;632;1087;220
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;110; ;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;522;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;110;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;625;848;861;1274;435
+4683;Lengwil;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;223; ;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;649;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;212;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;1025;1703;1741;2131;1313
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;678; ;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;1106;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;635;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;1429;2308;2294;2927;1675
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;879; ;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;1498;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;796;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;442;537;512;875;174
+4701;Wäldi;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;95; ;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;433;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;79;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1090;1331;1227;2151;407
+4711;Affeltrangen;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;241; ;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;1061;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;166;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;496;650;589;964;275
+4716;Bettwiesen;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;154; ;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;468;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;121;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;1305;1477;1358;2525;310
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;172; ;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;1220;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;138;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;345;383;387;704;66
+4723;Braunau;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;38; ;;;
+4723;Braunau;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;359;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;28;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;1867;2182;2118;3696;604
+4724;Eschlikon;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;315; ;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;1829;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;289;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;1231;1354;1336;2467;223
+4726;Fischingen;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;123; ;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;1236;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;100;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;527;609;614;1078;145
+4741;Lommis;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;82; ;;;
+4741;Lommis;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;551;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;63;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;2120;2781;2757;4341;1197
+4746;Münchwilen;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;661; ;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;2221;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;536;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;860;1406;1365;1752;1019
+4751;Rickenbach;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;546; ;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;892;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;473;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;402;442;406;776;72
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;40; ;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;374;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;32;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;2909;3901;3802;5874;1829
+4761;Sirnach;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;992; ;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;2965;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;837;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;674;809;783;1337;255
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;135; ;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;663;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;120;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;2047;2412;2236;3950;698
+4781;Wängi;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;365; ;;;
+4781;Wängi;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;1903;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;333;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2017;1;Männlich;1;Schweiz;1101;1285;1211;2183;313
+4786;Wilen;2014;Bezirk Münchwilen;2017;1;Männlich;2;Ausland;184; ;;;
+4786;Wilen;2014;Bezirk Münchwilen;2017;2;Weiblich;1;Schweiz;1082;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2017;2;Weiblich;2;Ausland;129;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;538;578;549;1059;68
+4791;Wuppenau;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;40; ;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;521;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;28;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;329;451;456;685;222
+4801;Berlingen;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;122; ;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;356;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;100;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;715;893;861;1435;319
+4806;Eschenz;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;178; ;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;720;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;141;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;465;519;509;930;98
+4811;Herdern;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;54; ;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;465;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;44;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;689;755;776;1412;119
+4816;Homburg;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;66; ;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;723;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;53;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;759;852;857;1538;171
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;93; ;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;779;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;78;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;240;321;327;485;163
+4826;Mammern;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;81; ;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;245;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;82;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;1219;1492;1472;2484;480
+4831;Müllheim;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;273; ;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;1265;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;207;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;828;990;1002;1698;294
+4841;Pfyn;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;162; ;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;870;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;132;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;184;207;187;355;39
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;23; ;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;171;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;16;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2017;1;Männlich;1;Schweiz;450;634;637;921;350
+4851;Salenstein;2013;Bezirk Kreuzlingen;2017;1;Männlich;2;Ausland;184; ;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2017;2;Weiblich;1;Schweiz;471;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2017;2;Weiblich;2;Ausland;166;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;1338;1921;1844;2779;986
+4864;Steckborn;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;583; ;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;1441;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;403;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2017;1;Männlich;1;Schweiz;640;805;842;1329;318
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2017;1;Männlich;2;Ausland;165; ;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2017;2;Weiblich;1;Schweiz;689;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2017;2;Weiblich;2;Ausland;153;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;607;681;647;1206;122
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;74; ;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;599;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;48;;;;
+4891;Berg;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1415;1671;1650;2848;473
+4891;Berg;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;256; ;;;
+4891;Berg;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;1433;;;;
+4891;Berg;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;217;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;603;680;670;1204;146
+4901;Birwinken;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;77; ;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;601;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;69;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1317;1926;1849;2687;1088
+4911;Bürglen;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;609; ;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;1370;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;479;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1006;1199;1114;1986;327
+4921;Bussnang;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;193; ;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;980;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;134;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1212;1414;1394;2423;385
+4941;Märstetten;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;202; ;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;1211;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;183;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;4331;5701;5637;8814;2524
+4946;Weinfelden;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;1370; ;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;4483;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;1154;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2017;1;Männlich;1;Schweiz;1023;1235;1194;2045;384
+4951;Wigoltingen;2015;Bezirk Weinfelden;2017;1;Männlich;2;Ausland;212; ;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2017;2;Weiblich;1;Schweiz;1022;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2017;2;Weiblich;2;Ausland;172;;;;
+4401;Arbon;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;4681;7103;7153;9744;4512
+4401;Arbon;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;2422; ;;;
+4401;Arbon;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;5063;;;;
+4401;Arbon;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;2090;;;;
+4406;Dozwil;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;308;365;362;624;103
+4406;Dozwil;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;57; ;;;
+4406;Dozwil;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;316;;;;
+4406;Dozwil;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;46;;;;
+4411;Egnach;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;2046;2392;2289;4048;633
+4411;Egnach;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;346; ;;;
+4411;Egnach;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;2002;;;;
+4411;Egnach;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;287;;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;542;637;606;1069;174
+4416;Hefenhofen;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;95; ;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;527;;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;79;;;;
+4421;Horn;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;1053;1292;1308;2170;430
+4421;Horn;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;239; ;;;
+4421;Horn;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;1117;;;;
+4421;Horn;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;191;;;;
+4426;Kesswil;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;390;478;514;810;182
+4426;Kesswil;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;88; ;;;
+4426;Kesswil;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;420;;;;
+4426;Kesswil;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;94;;;;
+4431;Roggwil;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;1336;1522;1528;2701;349
+4431;Roggwil;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;186; ;;;
+4431;Roggwil;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;1365;;;;
+4431;Roggwil;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;163;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;3546;5288;5482;7446;3324
+4436;Romanshorn;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;1742; ;;;
+4436;Romanshorn;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;3900;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;1582;;;;
+4441;Salmsach;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;511;734;717;1046;405
+4441;Salmsach;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;223; ;;;
+4441;Salmsach;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;535;;;;
+4441;Salmsach;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;182;;;;
+4446;Sommeri;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;226;267;282;475;74
+4446;Sommeri;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;41; ;;;
+4446;Sommeri;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;249;;;;
+4446;Sommeri;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;33;;;;
+4451;Uttwil;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;740;925;930;1507;348
+4451;Uttwil;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;185; ;;;
+4451;Uttwil;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;767;;;;
+4451;Uttwil;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;163;;;;
+4461;Amriswil;2011;Bezirk Arbon;2016;1;Männlich;1;Schweiz;4427;6640;6653;9157;4136
+4461;Amriswil;2011;Bezirk Arbon;2016;1;Männlich;2;Ausland;2213; ;;;
+4461;Amriswil;2011;Bezirk Arbon;2016;2;Weiblich;1;Schweiz;4730;;;;
+4461;Amriswil;2011;Bezirk Arbon;2016;2;Weiblich;2;Ausland;1923;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;2141;3007;2916;4368;1555
+4471;Bischofszell;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;866; ;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;2227;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;689;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;1326;1858;1778;2666;970
+4476;Erlen;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;532; ;;;
+4476;Erlen;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;1340;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;438;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;881;977;940;1739;178
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;96; ;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;858;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;82;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;284;314;283;542;55
+4495;Hohentannen;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;30; ;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;258;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;25;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;1336;1800;1729;2694;835
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;464; ;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;1358;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;371;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;1357;1845;1858;2792;911
+4506;Sulgen;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;488; ;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;1435;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;423;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;1029;1178;1089;1984;283
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;149; ;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;955;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;134;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;776;931;880;1523;288
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;155; ;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;747;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;133;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;1200;1916;1829;2449;1296
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;716; ;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;1249;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;580;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;710;819;838;1449;208
+4546;Schlatt;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;109; ;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;739;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;99;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;3715;4491;4347;7452;1386
+4551;Aadorf;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;776; ;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;3737;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;610;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;1119;1427;1316;2201;542
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;308; ;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;1082;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;234;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;9135;12237;12821;19203;5855
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;3102; ;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;10068;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;2753;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;1779;2124;2087;3581;630
+4571;Gachnang;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;345; ;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;1802;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;285;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;392;438;399;758;79
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;46; ;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;366;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;33;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;998;1355;1320;2012;663
+4591;Matzingen;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;357; ;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;1014;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;306;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;476;512;474;924;62
+4601;Neunforn;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;36; ;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;448;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;26;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;547;612;589;1091;110
+4606;Stettfurt;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;65; ;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;544;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;45;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;689;755;704;1350;109
+4611;Thundorf;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;66; ;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;661;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;43;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;498;549;526;992;83
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;51; ;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;494;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;32;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;563;632;620;1125;127
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;69; ;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;562;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;58;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;844;1062;1099;1745;416
+4641;Altnau;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;218; ;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;901;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;198;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;756;1098;1082;1509;671
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;342; ;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;753;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;329;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;1118;1646;1656;2337;965
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;528; ;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;1219;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;437;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;95;164;159;197;126
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;69; ;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;102;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;57;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;633;791;769;1258;302
+4656;Güttingen;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;158; ;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;625;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;144;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;1007;1246;1207;2010;443
+4666;Kemmental;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;239; ;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;1003;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;204;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;4549;10685;10852;9794;11743
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;6136; ;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;5245;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;5607;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;553;657;622;1064;215
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;104; ;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;511;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;111;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;609;825;857;1258;424
+4683;Lengwil;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;216; ;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;649;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;208;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;1018;1663;1665;2088;1240
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;645; ;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;1070;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;595;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;1386;2253;2257;2873;1637
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;867; ;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;1487;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;770;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;442;547;503;863;187
+4701;Wäldi;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;105; ;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;421;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;82;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;1082;1293;1220;2135;378
+4711;Affeltrangen;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;211; ;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;1053;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;167;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;477;621;551;921;251
+4716;Bettwiesen;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;144; ;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;444;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;107;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;1298;1470;1350;2502;318
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;172; ;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;1204;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;146;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;342;384;381;688;77
+4723;Braunau;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;42; ;;;
+4723;Braunau;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;346;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;35;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;1864;2174;2122;3700;596
+4724;Eschlikon;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;310; ;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;1836;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;286;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;1225;1355;1325;2453;227
+4726;Fischingen;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;130; ;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;1228;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;97;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;525;609;606;1065;150
+4741;Lommis;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;84; ;;;
+4741;Lommis;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;540;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;66;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;2070;2703;2650;4202;1151
+4746;Münchwilen;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;633; ;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;2132;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;518;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;874;1408;1360;1780;988
+4751;Rickenbach;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;534; ;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;906;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;454;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;398;437;402;768;71
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;39; ;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;370;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;32;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;2921;3922;3775;5882;1815
+4761;Sirnach;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;1001; ;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;2961;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;814;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;671;803;791;1347;247
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;132; ;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;676;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;115;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;2026;2379;2235;3934;680
+4781;Wängi;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;353; ;;;
+4781;Wängi;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;1908;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;327;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2016;1;Männlich;1;Schweiz;1091;1263;1219;2182;300
+4786;Wilen;2014;Bezirk Münchwilen;2016;1;Männlich;2;Ausland;172; ;;;
+4786;Wilen;2014;Bezirk Münchwilen;2016;2;Weiblich;1;Schweiz;1091;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2016;2;Weiblich;2;Ausland;128;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;522;564;569;1058;75
+4791;Wuppenau;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;42; ;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;536;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;33;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;315;437;450;669;218
+4801;Berlingen;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;122; ;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;354;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;96;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;707;865;856;1427;294
+4806;Eschenz;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;158; ;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;720;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;136;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;456;512;511;927;96
+4811;Herdern;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;56; ;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;471;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;40;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;704;761;776;1425;112
+4816;Homburg;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;57; ;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;721;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;55;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;760;851;850;1531;170
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;91; ;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;771;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;79;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;239;327;323;482;168
+4826;Mammern;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;88; ;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;243;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;80;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;1211;1477;1453;2465;465
+4831;Müllheim;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;266; ;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;1254;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;199;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;816;967;976;1670;273
+4841;Pfyn;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;151; ;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;854;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;122;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;183;205;186;355;36
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;22; ;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;172;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;14;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2016;1;Männlich;1;Schweiz;465;644;641;945;340
+4851;Salenstein;2013;Bezirk Kreuzlingen;2016;1;Männlich;2;Ausland;179; ;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2016;2;Weiblich;1;Schweiz;480;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2016;2;Weiblich;2;Ausland;161;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;1342;1908;1832;2791;949
+4864;Steckborn;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;566; ;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;1449;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;383;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2016;1;Männlich;1;Schweiz;634;807;847;1329;325
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2016;1;Männlich;2;Ausland;173; ;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2016;2;Weiblich;1;Schweiz;695;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2016;2;Weiblich;2;Ausland;152;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;596;678;623;1179;122
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;82; ;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;583;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;40;;;;
+4891;Berg;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;1410;1656;1645;2842;459
+4891;Berg;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;246; ;;;
+4891;Berg;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;1432;;;;
+4891;Berg;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;213;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;595;672;665;1189;148
+4901;Birwinken;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;77; ;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;594;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;71;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;1316;1910;1831;2688;1053
+4911;Bürglen;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;594; ;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;1372;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;459;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;987;1168;1093;1950;311
+4921;Bussnang;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;181; ;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;963;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;130;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;1205;1391;1393;2423;361
+4941;Märstetten;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;186; ;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;1218;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;175;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;4291;5642;5599;8754;2487
+4946;Weinfelden;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;1351; ;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;4463;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;1136;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2016;1;Männlich;1;Schweiz;1027;1233;1177;2046;364
+4951;Wigoltingen;2015;Bezirk Weinfelden;2016;1;Männlich;2;Ausland;206; ;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2016;2;Weiblich;1;Schweiz;1019;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2016;2;Weiblich;2;Ausland;158;;;;
+4401;Arbon;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;4688;7059;7125;9780;4404
+4401;Arbon;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;2371; ;;;
+4401;Arbon;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;5092;;;;
+4401;Arbon;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;2033;;;;
+4406;Dozwil;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;291;341;340;586;95
+4406;Dozwil;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;50; ;;;
+4406;Dozwil;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;295;;;;
+4406;Dozwil;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;45;;;;
+4411;Egnach;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;2007;2335;2227;3965;597
+4411;Egnach;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;328; ;;;
+4411;Egnach;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;1958;;;;
+4411;Egnach;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;269;;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;536;632;598;1057;173
+4416;Hefenhofen;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;96; ;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;521;;;;
+4416;Hefenhofen;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;77;;;;
+4421;Horn;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;1060;1304;1288;2157;435
+4421;Horn;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;244; ;;;
+4421;Horn;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;1097;;;;
+4421;Horn;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;191;;;;
+4426;Kesswil;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;402;485;512;827;170
+4426;Kesswil;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;83; ;;;
+4426;Kesswil;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;425;;;;
+4426;Kesswil;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;87;;;;
+4431;Roggwil;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;1307;1477;1470;2628;319
+4431;Roggwil;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;170; ;;;
+4431;Roggwil;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;1321;;;;
+4431;Roggwil;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;149;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;3541;5270;5438;7428;3280
+4436;Romanshorn;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;1729; ;;;
+4436;Romanshorn;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;3887;;;;
+4436;Romanshorn;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;1551;;;;
+4441;Salmsach;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;505;707;695;1027;375
+4441;Salmsach;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;202; ;;;
+4441;Salmsach;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;522;;;;
+4441;Salmsach;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;173;;;;
+4446;Sommeri;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;217;246;274;467;53
+4446;Sommeri;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;29; ;;;
+4446;Sommeri;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;250;;;;
+4446;Sommeri;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;24;;;;
+4451;Uttwil;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;728;909;921;1485;345
+4451;Uttwil;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;181; ;;;
+4451;Uttwil;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;757;;;;
+4451;Uttwil;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;164;;;;
+4461;Amriswil;2011;Bezirk Arbon;2015;1;Männlich;1;Schweiz;4339;6440;6607;9079;3968
+4461;Amriswil;2011;Bezirk Arbon;2015;1;Männlich;2;Ausland;2101; ;;;
+4461;Amriswil;2011;Bezirk Arbon;2015;2;Weiblich;1;Schweiz;4740;;;;
+4461;Amriswil;2011;Bezirk Arbon;2015;2;Weiblich;2;Ausland;1867;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;2116;2965;2896;4329;1532
+4471;Bischofszell;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;849; ;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;2213;;;;
+4471;Bischofszell;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;683;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;1322;1833;1775;2658;950
+4476;Erlen;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;511; ;;;
+4476;Erlen;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;1336;;;;
+4476;Erlen;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;439;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;878;972;938;1731;179
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;94; ;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;853;;;;
+4486;Hauptwil-Gottshaus;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;85;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;287;322;290;550;62
+4495;Hohentannen;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;35; ;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;263;;;;
+4495;Hohentannen;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;27;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;1353;1819;1732;2724;827
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;466; ;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;1371;;;;
+4501;Kradolf-Schönenberg;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;361;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;1351;1840;1836;2764;912
+4506;Sulgen;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;489; ;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;1413;;;;
+4506;Sulgen;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;423;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;1023;1169;1078;1977;270
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;146; ;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;954;;;;
+4511;Zihlschlacht-Sitterdorf;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;124;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;779;917;890;1547;260
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;138; ;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;768;;;;
+4536;Basadingen-Schlattingen;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;122;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;1178;1869;1777;2407;1239
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;691; ;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;1229;;;;
+4545;Diessenhofen;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;548;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;717;822;825;1450;197
+4546;Schlatt;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;105; ;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;733;;;;
+4546;Schlatt;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;92;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;3668;4456;4337;7389;1404
+4551;Aadorf;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;788; ;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;3721;;;;
+4551;Aadorf;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;616;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;1104;1403;1283;2162;524
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;299; ;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;1058;;;;
+4561;Felben-Wellhausen;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;225;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;8985;12041;12692;18942;5791
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;3056; ;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;9957;;;;
+4566;Frauenfeld;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;2735;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;1686;2007;1971;3397;581
+4571;Gachnang;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;321; ;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;1711;;;;
+4571;Gachnang;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;260;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;386;432;397;755;74
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;46; ;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;369;;;;
+4590;Hüttlingen;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;28;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;988;1322;1296;1979;639
+4591;Matzingen;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;334; ;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;991;;;;
+4591;Matzingen;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;305;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;463;498;459;899;58
+4601;Neunforn;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;35; ;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;436;;;;
+4601;Neunforn;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;23;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;536;599;565;1062;102
+4606;Stettfurt;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;63; ;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;526;;;;
+4606;Stettfurt;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;39;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;674;738;689;1321;106
+4611;Thundorf;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;64; ;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;647;;;;
+4611;Thundorf;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;42;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;505;554;532;1003;83
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;49; ;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;498;;;;
+4616;Uesslingen-Buch;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;34;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;568;631;607;1124;114
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;63; ;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;556;;;;
+4621;Warth-Weiningen;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;51;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;847;1062;1086;1738;410
+4641;Altnau;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;215; ;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;891;;;;
+4641;Altnau;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;195;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;763;1099;1067;1512;654
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;336; ;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;749;;;;
+4643;Bottighofen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;318;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;1085;1584;1615;2270;929
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;499; ;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;1185;;;;
+4646;Ermatingen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;430;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;91;164;156;191;129
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;73; ;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;100;;;;
+4651;Gottlieben;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;56;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;634;794;780;1272;302
+4656;Güttingen;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;160; ;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;638;;;;
+4656;Güttingen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;142;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;981;1214;1171;1953;432
+4666;Kemmental;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;233; ;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;972;;;;
+4666;Kemmental;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;199;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;4579;10668;10831;9885;11614
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;6089; ;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;5306;;;;
+4671;Kreuzlingen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;5525;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;556;658;616;1070;204
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;102; ;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;514;;;;
+4681;Langrickenbach;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;102;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;608;817;836;1246;407
+4683;Lengwil;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;209; ;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;638;;;;
+4683;Lengwil;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;198;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;967;1589;1598;1985;1202
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;622; ;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;1018;;;;
+4691;Münsterlingen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;580;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;1354;2196;2181;2813;1564
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;842; ;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;1459;;;;
+4696;Tägerwilen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;722;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;439;537;500;857;180
+4701;Wäldi;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;98; ;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;418;;;;
+4701;Wäldi;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;82;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;1065;1289;1192;2101;380
+4711;Affeltrangen;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;224; ;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;1036;;;;
+4711;Affeltrangen;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;156;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;471;615;538;908;245
+4716;Bettwiesen;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;144; ;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;437;;;;
+4716;Bettwiesen;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;101;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;1289;1458;1332;2470;320
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;169; ;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;1181;;;;
+4721;Bichelsee-Balterswil;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;151;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;335;372;381;681;72
+4723;Braunau;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;37; ;;;
+4723;Braunau;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;346;;;;
+4723;Braunau;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;35;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;1850;2167;2100;3677;590
+4724;Eschlikon;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;317; ;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;1827;;;;
+4724;Eschlikon;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;273;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;1216;1347;1291;2419;219
+4726;Fischingen;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;131; ;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;1203;;;;
+4726;Fischingen;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;88;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;524;612;613;1063;162
+4741;Lommis;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;88; ;;;
+4741;Lommis;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;539;;;;
+4741;Lommis;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;74;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;2024;2647;2605;4148;1104
+4746;Münchwilen;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;623; ;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;2124;;;;
+4746;Münchwilen;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;481;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;889;1416;1350;1809;957
+4751;Rickenbach;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;527; ;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;920;;;;
+4751;Rickenbach;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;430;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;380;414;390;745;59
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;34; ;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;365;;;;
+4756;Schönholzerswilen;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;25;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;2911;3875;3767;5871;1771
+4761;Sirnach;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;964; ;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;2960;;;;
+4761;Sirnach;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;807;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;655;782;769;1313;238
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;127; ;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;658;;;;
+4776;Tobel-Tägerschen;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;111;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;1984;2341;2235;3890;686
+4781;Wängi;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;357; ;;;
+4781;Wängi;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;1906;;;;
+4781;Wängi;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;329;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2015;1;Männlich;1;Schweiz;1100;1260;1196;2172;284
+4786;Wilen;2014;Bezirk Münchwilen;2015;1;Männlich;2;Ausland;160; ;;;
+4786;Wilen;2014;Bezirk Münchwilen;2015;2;Weiblich;1;Schweiz;1072;;;;
+4786;Wilen;2014;Bezirk Münchwilen;2015;2;Weiblich;2;Ausland;124;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;515;559;561;1041;79
+4791;Wuppenau;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;44; ;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;526;;;;
+4791;Wuppenau;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;35;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;317;427;436;668;195
+4801;Berlingen;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;110; ;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;351;;;;
+4801;Berlingen;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;85;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;707;866;853;1431;288
+4806;Eschenz;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;159; ;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;724;;;;
+4806;Eschenz;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;129;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;455;497;514;926;85
+4811;Herdern;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;42; ;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;471;;;;
+4811;Herdern;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;43;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;693;747;763;1405;105
+4816;Homburg;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;54; ;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;712;;;;
+4816;Homburg;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;51;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;756;832;833;1516;149
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;76; ;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;760;;;;
+4821;Hüttwilen;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;73;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;230;318;307;460;165
+4826;Mammern;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;88; ;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;230;;;;
+4826;Mammern;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;77;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;1185;1447;1432;2419;460
+4831;Müllheim;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;262; ;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;1234;;;;
+4831;Müllheim;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;198;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;823;962;970;1675;257
+4841;Pfyn;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;139; ;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;852;;;;
+4841;Pfyn;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;118;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;188;209;187;358;38
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;21; ;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;170;;;;
+4846;Raperswilen;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;17;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2015;1;Männlich;1;Schweiz;470;644;637;950;331
+4851;Salenstein;2013;Bezirk Kreuzlingen;2015;1;Männlich;2;Ausland;174; ;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2015;2;Weiblich;1;Schweiz;480;;;;
+4851;Salenstein;2013;Bezirk Kreuzlingen;2015;2;Weiblich;2;Ausland;157;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;1336;1898;1818;2767;949
+4864;Steckborn;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;562; ;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;1431;;;;
+4864;Steckborn;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;387;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2015;1;Männlich;1;Schweiz;646;825;847;1339;333
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2015;1;Männlich;2;Ausland;179; ;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2015;2;Weiblich;1;Schweiz;693;;;;
+4871;Wagenhausen;2012;Bezirk Frauenfeld;2015;2;Weiblich;2;Ausland;154;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;602;687;633;1188;132
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;85; ;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;586;;;;
+4881;Amlikon-Bissegg;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;47;;;;
+4891;Berg;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;1398;1658;1641;2813;486
+4891;Berg;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;260; ;;;
+4891;Berg;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;1415;;;;
+4891;Berg;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;226;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;604;679;675;1215;139
+4901;Birwinken;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;75; ;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;611;;;;
+4901;Birwinken;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;64;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;1304;1874;1805;2672;1007
+4911;Bürglen;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;570; ;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;1368;;;;
+4911;Bürglen;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;437;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;990;1170;1092;1955;307
+4921;Bussnang;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;180; ;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;965;;;;
+4921;Bussnang;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;127;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;1192;1376;1368;2385;359
+4941;Märstetten;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;184; ;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;1193;;;;
+4941;Märstetten;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;175;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;4289;5625;5522;8727;2420
+4946;Weinfelden;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;1336; ;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;4438;;;;
+4946;Weinfelden;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;1084;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2015;1;Männlich;1;Schweiz;1013;1217;1152;2001;368
+4951;Wigoltingen;2015;Bezirk Weinfelden;2015;1;Männlich;2;Ausland;204; ;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2015;2;Weiblich;1;Schweiz;988;;;;
+4951;Wigoltingen;2015;Bezirk Weinfelden;2015;2;Weiblich;2;Ausland;164;;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;
+;;;;;;;;;; ;;;

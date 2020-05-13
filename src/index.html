@@ -1,0 +1,155 @@
+<!--
+----------------------------------------------------------------------------------------
+kftg_ogd (https://github.com/Boostvolt/kftg_ogd)
+
+Date           Who           What
+11.05.2020     Ivan & Jan    created
+
+(c) by Ivan & Jan
+----------------------------------------------------------------------------------------
+-->
+
+<!doctype html>
+
+<html lang="de">
+
+<meta charset="utf-8">
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+<title>Ständige Wohnbevölkerung Thurgau 2015 - 2019</title>
+
+<link rel="stylesheet" href="css/stylesheet.css">
+<link rel="stylesheet" href="map/css/map.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+<script src="map/js/jquery.min.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="map/js/d3.v3.min.js"></script>
+<script src="map/js/topojson.v1.min.js"></script>
+<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
+
+<header>
+    <div class="container">
+        <div class="col-md-12">
+            <div class="text-content">
+                <h2>Ständige Wohnbevölkerung Thurgau</h2>
+                <div class="line-dec"></div>
+                <span>2015 - 2019</span>
+            </div>
+        </div>
+    </div>
+</header>
+
+<body>
+    <div class="container">
+        <br>
+        <div class="text">
+            Auf dieser Webseite können sie durch anpassen des Sliders und Interagieren auf der Karte, die ständige
+            Wohnbevölkerung im Kanton Thurgau anzeigen lassen.
+            Die Bevölkerung wird dabei durch Geschlechter (Männlich und Weiblich) und Nationalität (Schweizer und
+            Ausländer) sortiert. Es bezieht sich dabei auf das ausgewählte Jahr und der ausgewählten Gemeinde.
+        </div>
+        <br>
+        <h2>Bitte wählen Sie ein Jahr aus ...</h2>
+        <br>
+        <form class="mt-3">
+            <div class="h3 text-center">
+                <label id="rangeyear">Alle Daten werden angezeigt.</label>
+            </div>
+            <input class="form-control-range" type="range" id="year" oninput="sliderChange();" value="2015"
+                   placeholder="Jahr" min="2015" max="2020" maxlength="4">
+        </form>
+    </div>
+    <br>
+    <br>
+    <hr>
+    <br>
+    <div>
+        <div class="container">
+            <div class="title"><h2>Bitte wählen Sie eine Gemeinde aus ...</h2></div>
+            <div class="container">
+                <div id="map">
+                    <div id="graph"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <br>
+    <div class="info-section">
+        <h2><label id="gemeinde">Gemeinde: </label></h2><br>
+        <div class="row mx-auto justify-content-center">
+            <div class="col-sm-3" class=""><h3>Geschlecht</h3>
+                <br>
+                <div class="col-sm">
+                    <canvas id="geschlecht"></canvas>
+                </div>
+            </div>
+            <div class="col-sm-3" class=""><h3>Nationalität</h3>
+                <br>
+                <div class="col-sm">
+                    <canvas id="nationalitaet"></canvas>
+                </div>
+            </div>
+            <div class="col-sm-3" id="legend"><h3>Informationen</h3>
+                <br>
+                <h5>Geschlecht</h5>
+                <label id="maennlich">Männlich: </label><br>
+                <label id="weichblich">Weiblich: </label><br>
+                <br>
+                <h5>Nationalität</h5>
+                <label id="schweizer">Schweizer: </label><br>
+                <label id="auslaender">Ausländer: </label><br>
+            </div>
+        </div>
+    </div>
+</body>
+<br>
+<br>
+<br>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-6">
+                <h6>Über</h6>
+                <p class="text-justify">Diese Webseite wurde im Rahmen der Projektwoche OGD im FS2020 vom 11.05 - 15.05
+                    erstellt. Der Datensatz beinhaltet die ständige Wohnbevölkerung in Personen nach Gemeinden,
+                    Geschlecht und Staatsangehörigkeit (zwei Kategorien: Schweiz und Ausland) ab dem Jahr 2015.
+                    Ebenfalls aufgeführt ist die Bezirkszugehörigkeit einer Gemeinde.</p>
+            </div>
+            <div class="col-sm-12 col-md-3">
+                <h6>Benutzt</h6>
+                <ul>
+                    <li><a href="https://github.com/topojson/topojson-client">TopoJSON Client</a></li>
+                    <li><a href="https://jquery.org">JQuery</a></li>
+                    <li><a href="https://github.com/MikeZyeman/TG-Map">TG-Map</a></li>
+                </ul>
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <h6 id="qlinks">Quick Links</h6>
+                <ul class="footer-links">
+                    <li><a href="https://github.com/Boostvolt/kftg_ogd">GitHub</a></li>
+                    <li><a href="https://opendata.swiss/de/dataset/standige-wohnbevolkerung-kanton-thurgau/resource/caac6759-7410-4fe3-a80c-e1ff0df01fe7">OGD-Daten</a></li>
+                    <li><a href="mailto:ivan.knoefler@stud.kftg.ch">Kontaktieren Sie uns</a></li>
+                </ul>
+            </div>
+        </div>
+        <hr>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-sm-6 col-xs-12">
+                <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by
+                    <a href="#">Ivan & Jan</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="map/js/main.js"></script>
+<script src="js/main.js"></script>
+<script src="map/js/app.js"></script>
+<script src="js/mapSearch.js"></script>
+<script src="js/mapSort.js" charset="utf-8"></script>
+</html>

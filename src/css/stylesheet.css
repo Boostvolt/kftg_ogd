@@ -1,0 +1,183 @@
+/*
+----------------------------------------------------------------------------------------
+kftg_ogd (https://github.com/Boostvolt/kftg_ogd)
+
+Date           Who           What
+11.05.2020     Ivan & Jan    created
+
+(c) by Ivan & Jan
+    ----------------------------------------------------------------------------------------
+*/
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+p {
+    font-size: 13px;
+    color: #7a7a7a;
+    line-height: 22px;
+}
+canvas {
+    min-width: 200px !important;
+    width: 100% !important;
+    height: auto !important;
+}
+
+/* Header */
+header {
+    background-image: url(../img/header.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 50%;
+    background-repeat: no-repeat;
+    padding: 15% 0 15% 0;
+}
+
+header .text-content {
+    text-align: right;
+    color: #fff;
+}
+
+header .text-content h2 {
+    font-size: 44px;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+header .text-content .line-dec {
+    width: 60px;
+    height: 3px;
+    background-color: #fff;
+    margin: 25px 0 25px auto;
+}
+
+header .text-content span {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+/* Body */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+body .text {
+    color: darkgray;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+body .service-item {
+    text-align: center;
+}
+
+body h2 {
+    text-align: center;
+}
+
+/* Slider */
+#year {
+    width: 100%;
+    height: 15px;
+    outline: none;
+    border-radius: 5px;
+    background: #d3d3d3;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    -webkit-appearance: none;
+}
+
+#year::-webkit-slider-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #16A74E;
+    cursor: pointer;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+#year::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #16A74E;
+    cursor: pointer;
+}
+
+.info-section {
+    text-align: center;
+}
+
+/*Footer*/
+footer {
+    background-color: #26272b;
+    padding: 45px 0 20px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #737373;
+}
+
+footer hr {
+    border-top-color: #bbb;
+    opacity: 0.5
+}
+
+footer hr.small {
+    margin: 20px 0
+}
+
+footer h6 {
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    letter-spacing: 2px
+}
+
+footer a {
+    color: #737373;
+}
+
+footer a:hover {
+    color: #16A74E;
+    text-decoration: none;
+}
+
+.footer-links {
+    padding-left: 0;
+    list-style: none
+}
+
+.footer-links li {
+    display: block
+}
+
+.footer-links a {
+    color: #737373
+}
+
+.footer-links a:active, .footer-links a:focus, .footer-links a:hover {
+    color: #16A74E;
+    text-decoration: none;
+}
+
+.footer-links.inline li {
+    display: inline-block
+}
+
+.site-footer .social-icons {
+    text-align: right
+}
+
+.copyright-text {
+    margin: 0
+}
