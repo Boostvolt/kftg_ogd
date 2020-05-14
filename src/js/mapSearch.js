@@ -52,6 +52,7 @@ function displayData() {
     document.getElementById("auslaender").innerHTML = "Ausländer: " + arrayG[index][13];
     //document.getElementById("schweizer-prozent").innerHTML = "Schweizer (in %): " + Math.round((arrayG[index][12]/(arrayG[index][12] + arrayG[index][13])) * 100) + "%";
     //document.getElementById("auslaender-prozent").innerHTML = "Ausländer (in %): " + Math.round((arrayG[index][13]/(arrayG[index][12] + arrayG[index][13])) * 100) + "%";
+    window.scrollTo(0,document.body.scrollHeight);
 }
 
 
