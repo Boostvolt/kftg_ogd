@@ -40,7 +40,7 @@ httpobj.onreadystatechange = function () {
     }
 };
 
-function sliderChange(){
+function sliderChange(index){
     let sliderValue = document.getElementById('years').value;
     document.getElementById('rangeyear').innerHTML = "Jahr: " + sliderValue;
 }

@@ -67,7 +67,6 @@ function init() {
                 }
             });
 
-
         g.append("g")
             .attr("id", "lakes")
             .selectAll("path")
@@ -112,6 +111,7 @@ function init() {
             .duration(750)
             .style("stroke-width", 1.5 / k + "px");
         window.scrollTo(0,document.body.scrollHeight);
+        document.getElementById('years').disabled = false;
     }
 
     function mouseover(d) {

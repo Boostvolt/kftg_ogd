@@ -14,6 +14,8 @@ var gemeindeName = "";
 var selectedYear = 0;
 var year = 0;
 
+document.getElementById('years').disabled = true;
+
 function getData(arrayIndex) {
     index = arrayIndex;
     gemeindeName = muniArr[index][1];
