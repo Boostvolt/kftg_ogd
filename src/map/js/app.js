@@ -76,7 +76,7 @@ var muniArr = [
 
     //Bezirk Münchwilen, 12 Gemeinden
     [4726, "Fischingen", 1],
-    [4751, "Rickenbach b. Wil", 1],
+    [4751, "Rickenbach", 1],
     [4786, "Wilen", 1],
     [4761, "Sirnach", 1],
     [4724, "Eschlikon", 1],
