@@ -50,6 +50,22 @@ Date           Who           What
         Ausländer) sortiert. Es bezieht sich dabei auf das ausgewählte Jahr und der ausgewählten Gemeinde.
     </div>
     <br>
+    <h2>Bitte wählen Sie ein Jahr aus ...</h2>
+    <br>
+    <form class="mt-3">
+        <div class="h3 text-center">
+            <label id="rangeyear">Jahr 2015</label>
+        </div>
+        <input class="form-control-range" type="range" id="years" oninput="sliderChange(), init();" value="2015"
+               placeholder="Jahr" min="2015" max="2019" maxlength="4">
+        <div class="sliderticks">
+            <p>2015</p>
+            <p>2016</p>
+            <p>2017</p>
+            <p>2018</p>
+            <p>2019</p>
+        </div>
+    </form>
 </div>
 <hr>
 <br>
