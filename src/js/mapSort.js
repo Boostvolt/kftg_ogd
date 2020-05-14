@@ -42,14 +42,7 @@ httpobj.onreadystatechange = function () {
 
 function sliderChange(){
     let sliderValue = document.getElementById('years').value;
-
-    if(sliderValue === "2020"){
-        document.getElementById('rangeyear').innerHTML = "Alle Abstimmungen werden angezeigt.";
-        showAll = true;
-    }else{
-        showAll = false;
-        document.getElementById('rangeyear').innerHTML = "Jahr: " + sliderValue;
-    }
+    document.getElementById('rangeyear').innerHTML = "Jahr: " + sliderValue;
 }
 
 
