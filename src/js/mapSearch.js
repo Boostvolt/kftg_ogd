@@ -44,6 +44,7 @@ function displayData() {
 
     drawChart(gemeindeName, index);
     document.getElementById("gemeinde").innerHTML = "Gemeinde: " + arrayG[index][1];
+    document.getElementById("bezirk").innerHTML = arrayG[index][3];
 
     document.getElementById("maennlich").innerHTML = "Männlich: " + arrayG[index][10];
     document.getElementById("weichblich").innerHTML = "Weiblich: " + arrayG[index][11];
