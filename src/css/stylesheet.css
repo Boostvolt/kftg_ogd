@@ -196,14 +196,14 @@ footer .copyright {
     appearance: none;
     width: 25px;
     height: 25px;
-    background: #FF0000;
+    background: #16A74E;
     cursor: pointer;
 }
 
 .form-control-range::-moz-range-thumb {
     width: 25px;
     height: 25px;
-    background: #FF0000;
+    background: #16A74E;
     cursor: pointer;
 }
 
