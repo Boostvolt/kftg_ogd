@@ -11,17 +11,26 @@ Date           Who           What
 
 var index = 0;
 var gemeindeName = "";
-var name = "";
+var selectedYear = 0;
+var year = 0;
 
 function getData(arrayIndex) {
     index = arrayIndex;
     gemeindeName = muniArr[index][1];
+    getSelectedYear();
+}
+
+function getSelectedYear(){
+    selectedYear = document.getElementById('years').value;
+    console.log(selectedYear);
+
+    year = selectedYear;
     getIndexNumber();
 }
 
 function getIndexNumber() {
     for (let i = 0; i < arrayG.length; i++) {
-        if (arrayG[i][1] === gemeindeName) {
+        if (arrayG[i][4] == year && arrayG[i][1] === gemeindeName) {
             index = i;
             break;
         }
