@@ -25,7 +25,6 @@ function init() {
         .attr("height", height)
         .on("click", clicked);
 
-
     var g = svg.append("g")
         .attr("width", "")
         .attr("height", "");
@@ -48,21 +47,6 @@ function init() {
                     if (d.id === muniArr[j][0]) {
                         gemeindeName = muniArr[j][1];
                         break;
-                    }
-                }
-
-                    for (let i = 0; i < arrayG.length; i++) {
-                        if (arrayG[i][1] === gemeindeName) {
-                            var colorChooser = arrayG[i][13] - arrayG[i][14];
-
-                            if (colorChooser < 0) {
-                                return color[1];
-                            } else if (colorChooser === 0) {
-                                return color[3];
-                            } else {
-                                return color[0];
-
-                        }
                     }
                 }
             });
@@ -110,7 +94,7 @@ function init() {
         g.transition()
             .duration(750)
             .style("stroke-width", 1.5 / k + "px");
-        window.scrollTo(0,document.body.scrollHeight);
+        window.scrollTo(0, document.body.scrollHeight);
         document.getElementById('years').disabled = false;
     }
 

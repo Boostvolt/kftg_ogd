@@ -20,6 +20,7 @@ p {
     color: #7a7a7a;
     line-height: 22px;
 }
+
 canvas {
     min-width: 200px !important;
     width: 100% !important;
@@ -66,6 +67,7 @@ header .text-content span {
 body {
     font-family: 'Open Sans', sans-serif;
 }
+
 body .text {
     color: darkgray;
     margin: auto;
@@ -136,6 +138,7 @@ body h2 {
     line-height: 40px;
     margin: 0 0 20px 0;
 }
+
 /* Footer */
 footer {
     background-color: #26272b;

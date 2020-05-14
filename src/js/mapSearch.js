@@ -22,7 +22,7 @@ function getData(arrayIndex) {
     getSelectedYear();
 }
 
-function getSelectedYear(){
+function getSelectedYear() {
     selectedYear = document.getElementById('years').value;
     console.log(selectedYear);
 
@@ -47,13 +47,9 @@ function displayData() {
 
     document.getElementById("maennlich").innerHTML = "Männlich: " + arrayG[index][10];
     document.getElementById("weichblich").innerHTML = "Weiblich: " + arrayG[index][11];
-    //document.getElementById("maennlich-prozent").innerHTML = "Männlich (in %): " + Math.round((arrayG[index][10]/(arrayG[index][10] + arrayG[index][11])) * 100) + "%";
-    //document.getElementById("weiblich-prozent").innerHTML = "Weiblich (in %): " + Math.round((arrayG[index][11]/(arrayG[index][10] + arrayG[index][11])) * 100) + "%";
 
     document.getElementById("schweizer").innerHTML = "Schweizer: " + arrayG[index][12];
     document.getElementById("auslaender").innerHTML = "Ausländer: " + arrayG[index][13];
-    //document.getElementById("schweizer-prozent").innerHTML = "Schweizer (in %): " + Math.round((arrayG[index][12]/(arrayG[index][12] + arrayG[index][13])) * 100) + "%";
-    //document.getElementById("auslaender-prozent").innerHTML = "Ausländer (in %): " + Math.round((arrayG[index][13]/(arrayG[index][12] + arrayG[index][13])) * 100) + "%";
 }
 
 
