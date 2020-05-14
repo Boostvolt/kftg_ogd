@@ -1,3 +1,5 @@
+<!doctype html>
+<html lang="de">
 <!--
 ----------------------------------------------------------------------------------------
 kftg_ogd (https://github.com/Boostvolt/kftg_ogd)
@@ -9,26 +11,23 @@ Date           Who           What
 ----------------------------------------------------------------------------------------
 -->
 
-<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <title>Ständige Wohnbevölkerung Thurgau 2015 - 2019</title>
 
-<html lang="de">
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="stylesheet" href="map/css/map.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+          integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
-<meta charset="utf-8">
-<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-<title>Ständige Wohnbevölkerung Thurgau 2015 - 2019</title>
+    <script src="map/js/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="map/js/d3.v3.min.js"></script>
+    <script src="map/js/topojson.v1.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
 
-<link rel="stylesheet" href="css/stylesheet.css">
-<link rel="stylesheet" href="map/css/map.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-
-<script src="map/js/jquery.min.js"></script>
-<script src="https://d3js.org/d3.v5.min.js"></script>
-<script src="map/js/d3.v3.min.js"></script>
-<script src="map/js/topojson.v1.min.js"></script>
-<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
-
-<header>
     <div class="container">
         <div class="col-md-12">
             <div class="text-content">
@@ -38,72 +37,72 @@ Date           Who           What
             </div>
         </div>
     </div>
-</header>
+</head>
 
 <body>
+<div class="container">
+    <br>
+    <div class="text">
+        Auf dieser Webseite können sie durch anpassen des Sliders und Interagieren auf der Karte, die ständige
+        Wohnbevölkerung im Kanton Thurgau anzeigen lassen.
+        Die Bevölkerung wird dabei durch Geschlechter (Männlich und Weiblich) und Nationalität (Schweizer und
+        Ausländer) sortiert. Es bezieht sich dabei auf das ausgewählte Jahr und der ausgewählten Gemeinde.
+    </div>
+    <br>
+    <h2>Bitte wählen Sie ein Jahr aus ...</h2>
+    <br>
+    <form class="mt-3">
+        <div class="h3 text-center">
+            <label id="rangeyear">Alle Daten werden angezeigt.</label>
+        </div>
+        <input class="form-control-range" type="range" id="year" oninput="sliderChange();" value="2015"
+               placeholder="Jahr" min="2015" max="2020" maxlength="4">
+    </form>
+</div>
+<br>
+<br>
+<hr>
+<br>
+<div>
     <div class="container">
-        <br>
-        <div class="text">
-            Auf dieser Webseite können sie durch anpassen des Sliders und Interagieren auf der Karte, die ständige
-            Wohnbevölkerung im Kanton Thurgau anzeigen lassen.
-            Die Bevölkerung wird dabei durch Geschlechter (Männlich und Weiblich) und Nationalität (Schweizer und
-            Ausländer) sortiert. Es bezieht sich dabei auf das ausgewählte Jahr und der ausgewählten Gemeinde.
-        </div>
-        <br>
-        <h2>Bitte wählen Sie ein Jahr aus ...</h2>
-        <br>
-        <form class="mt-3">
-            <div class="h3 text-center">
-                <label id="rangeyear">Alle Daten werden angezeigt.</label>
-            </div>
-            <input class="form-control-range" type="range" id="year" oninput="sliderChange();" value="2015"
-                   placeholder="Jahr" min="2015" max="2020" maxlength="4">
-        </form>
-    </div>
-    <br>
-    <br>
-    <hr>
-    <br>
-    <div>
+        <div class="title"><h2>Bitte wählen Sie eine Gemeinde aus ...</h2></div>
         <div class="container">
-            <div class="title"><h2>Bitte wählen Sie eine Gemeinde aus ...</h2></div>
-            <div class="container">
-                <div id="map">
-                    <div id="graph"></div>
-                </div>
+            <div id="map">
+                <div id="graph"></div>
             </div>
         </div>
     </div>
-    <hr>
-    <br>
-    <div class="info-section">
-        <h2><label id="gemeinde">Gemeinde: </label></h2><br>
-        <div class="row mx-auto justify-content-center">
-            <div class="col-sm-3" class=""><h3>Geschlecht</h3>
-                <br>
-                <div class="col-sm">
-                    <canvas id="geschlecht"></canvas>
-                </div>
-            </div>
-            <div class="col-sm-3" class=""><h3>Nationalität</h3>
-                <br>
-                <div class="col-sm">
-                    <canvas id="nationalitaet"></canvas>
-                </div>
-            </div>
-            <div class="col-sm-3" id="legend"><h3>Informationen</h3>
-                <br>
-                <h5>Geschlecht</h5>
-                <label id="maennlich">Männlich: </label><br>
-                <label id="weichblich">Weiblich: </label><br>
-                <br>
-                <h5>Nationalität</h5>
-                <label id="schweizer">Schweizer: </label><br>
-                <label id="auslaender">Ausländer: </label><br>
+</div>
+<hr>
+<br>
+<div class="info-section">
+    <h2><label id="gemeinde">Gemeinde: </label></h2><br>
+    <div class="row mx-auto justify-content-center">
+        <div class="col-sm-3" class=""><h3>Geschlecht</h3>
+            <br>
+            <div class="col-sm">
+                <canvas id="geschlecht"></canvas>
             </div>
         </div>
+        <div class="col-sm-3" class=""><h3>Nationalität</h3>
+            <br>
+            <div class="col-sm">
+                <canvas id="nationalitaet"></canvas>
+            </div>
+        </div>
+        <div class="col-sm-3" id="legend"><h3>Informationen</h3>
+            <br>
+            <h5>Geschlecht</h5>
+            <label id="maennlich">Männlich: </label><br>
+            <label id="weichblich">Weiblich: </label><br>
+            <br>
+            <h5>Nationalität</h5>
+            <label id="schweizer">Schweizer: </label><br>
+            <label id="auslaender">Ausländer: </label><br>
+        </div>
     </div>
-</body>
+</div>
+
 <br>
 <br>
 <br>
@@ -129,7 +128,9 @@ Date           Who           What
                 <h6>Quick Links</h6>
                 <ul class="links">
                     <li><a href="https://github.com/Boostvolt/kftg_ogd">GitHub</a></li>
-                    <li><a href="https://opendata.swiss/de/dataset/standige-wohnbevolkerung-kanton-thurgau/resource/caac6759-7410-4fe3-a80c-e1ff0df01fe7">OGD-Daten</a></li>
+                    <li>
+                        <a href="https://opendata.swiss/de/dataset/standige-wohnbevolkerung-kanton-thurgau/resource/caac6759-7410-4fe3-a80c-e1ff0df01fe7">OGD-Daten</a>
+                    </li>
                     <li><a href="mailto:ivan.knoefler@stud.kftg.ch">Kontaktieren Sie uns</a></li>
                 </ul>
             </div>
@@ -147,9 +148,11 @@ Date           Who           What
     </div>
 </footer>
 
+
 <script src="map/js/main.js"></script>
 <script src="js/main.js"></script>
 <script src="map/js/app.js"></script>
 <script src="js/mapSearch.js"></script>
 <script src="js/mapSort.js" charset="utf-8"></script>
+</body>
 </html>
