@@ -78,6 +78,10 @@ body .service-item {
     text-align: center;
 }
 
+body .info-section {
+    text-align: center;
+}
+
 body h2 {
     text-align: center;
 }
@@ -113,11 +117,7 @@ body h2 {
     cursor: pointer;
 }
 
-.info-section {
-    text-align: center;
-}
-
-/*Footer*/
+/* Footer */
 footer {
     background-color: #26272b;
     padding: 45px 0 20px;
@@ -152,32 +152,24 @@ footer a:hover {
     text-decoration: none;
 }
 
-.footer-links {
+footer .links {
     padding-left: 0;
     list-style: none
 }
 
-.footer-links li {
+footer .links li {
     display: block
 }
 
-.footer-links a {
+footer .links a {
     color: #737373
 }
 
-.footer-links a:active, .footer-links a:focus, .footer-links a:hover {
+footer .links a:active, .links a:focus, .links a:hover {
     color: #16A74E;
     text-decoration: none;
 }
 
-.footer-links.inline li {
-    display: inline-block
-}
-
-.site-footer .social-icons {
-    text-align: right
-}
-
-.copyright-text {
+footer .copyright {
     margin: 0
 }
