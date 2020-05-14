@@ -111,7 +111,7 @@ function init() {
         g.transition()
             .duration(750)
             .style("stroke-width", 1.5 / k + "px");
-        window.scrollTo(0,document.body.scrollHeight);
+
     }
 
     function mouseover(d) {
