@@ -7,6 +7,8 @@
 
 Implementierung für offene Verwaltungsdaten in der Schweiz mit Hilfe einer Webseite.
 
+Diese Webseite wurde im Rahmen der Projektwoche OGD im FS2020 vom 11.05 - 15.05 erstellt. Der Datensatz beinhaltet die ständige Wohnbevölkerung in Personen nach Gemeinden, Geschlecht und Staatsangehörigkeit (zwei Kategorien: Schweizer und Ausländer) ab dem Jahr 2015. Ebenfalls aufgeführt ist die Bezirkszugehörigkeit einer Gemeinde.
+
 Diese Ressource wurde zu Demonstrationszwecken erstellt. Diese kann in Zukunft in Frameworks integriert werden und/oder eine eigene Server Side/Persistenzlogik enthalten.
 
 ## Rahmenbedingungen
