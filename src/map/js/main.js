@@ -1,21 +1,32 @@
+/*
+----------------------------------------------------------------------------------------
+kftg_ogd (https://github.com/Boostvolt/kftg_ogd)
+
+Date           Who           What
+11.05.2020     Ivan & Jan    created
+
+(c) by Ivan & Jan
+    ----------------------------------------------------------------------------------------
+*/
+
 function init() {
     $('#graph').empty();
-    var docu = document.getElementById('graph');
+    let docu = document.getElementById('graph');
 
-    var width = docu.clientWidth,
+    let width = docu.clientWidth,
         height = docu.clientHeight,
         centered,
         update = false,
         clickBool = false;
 
-    var path = d3.geo.path()
+    let path = d3.geo.path()
         .projection(null);
 
-    var svg = d3.select("#graph").append("svg")
+    let svg = d3.select("#graph").append("svg")
         .attr("width", width)
         .attr("height", height);
 
-    var graph = d3.select("#graph").append("div")
+    let graph = d3.select("#graph").append("div")
         .attr("class", "tooltip")
         .style("opacity", 0);
 
@@ -25,11 +36,11 @@ function init() {
         .attr("height", height)
         .on("click", clicked);
 
-    var g = svg.append("g")
+    let g = svg.append("g")
         .attr("width", "")
         .attr("height", "");
 
-    d3.json("map/json/tg-municipalities-lakes.json", function (error, tg) {
+    d3.json("map/json/municipalities.json", function (error, tg) {
         g.append("g")
             .attr("id", "municipalities")
             .selectAll("path")
@@ -41,7 +52,7 @@ function init() {
             .on("mouseout", mouseout)
             .attr("fill", function (d) {
 
-                var gemeindeName = "";
+                let gemeindeName = "";
 
                 for (let j = 0; j < muniArr.length; j++) {
                     if (d.id === muniArr[j][0]) {
@@ -68,19 +79,14 @@ function init() {
     });
 
     function clicked(d) {
-        var x, y, k;
+        let k;
         if (d && centered !== d) {
-            var centroid = path.centroid(d);
-            x = centroid[0];
-            y = centroid[1];
             k = 4;
             centered = d;
 
             clickBool = true;
             sendData(centered);
         } else {
-            x = width / 2;
-            y = height / 2;
             k = 1;
             centered = null;
 
@@ -94,7 +100,7 @@ function init() {
         g.transition()
             .duration(750)
             .style("stroke-width", 1.5 / k + "px");
-        window.scrollTo(0, document.body.scrollHeight);
+        window.scrollTo(0, 1520);
         document.getElementById('years').disabled = false;
     }
 
@@ -103,17 +109,17 @@ function init() {
             .html(getMName(d))
             .style("left", (d3.event.pageX) + "px")
             .style("top", (d3.event.pageY - 28) + "px");
-
     }
 
-    function mouseout(d) {
+    function mouseout() {
         graph.style("opacity", 0)
             .html();
     }
 
     function sendData(d) {
-        for (i = 0; i < muniArr.length; i++) {
+        for (let i = 0; i < muniArr.length; i++) {
             if (d.id === muniArr[i][0]) {
+                console.log(d.id);
                 console.log(muniArr[i][1]);
                 getData(i);
             }
@@ -121,52 +127,10 @@ function init() {
     }
 
     function getMName(d) {
-        for (i = 0; i < muniArr.length; i++) {
+        for (let i = 0; i < muniArr.length; i++) {
             if (d.id === muniArr[i][0]) {
                 return muniArr[i][1] || d.id;
-
             }
         }
     }
 }
-
-function drawChart(gemeinde, i) {
-    var ctx = document.getElementById('geschlecht').getContext('2d');
-
-    var chart = new Chart(ctx, {
-        type: 'doughnut',
-
-        data: {
-            labels: ["Männlich", "Weiblich"],
-            datasets: [{
-                backgroundColor: ['rgb(2, 163, 254)', 'rgb(236, 73, 166)'],
-                borderColor: 'rgb(255, 255, 255)',
-                data: [arrayG[i][10], arrayG[i][11]],
-            }]
-        },
-
-        options: {
-            hover: {mode: null}
-        }
-    });
-
-    var ctx = document.getElementById('nationalitaet').getContext('2d');
-
-    var chart = new Chart(ctx, {
-        type: 'doughnut',
-
-        data: {
-            labels: ["Schweizer", "Ausländer"],
-            datasets: [{
-                backgroundColor: ['rgb(255, 0, 0)', 'rgb(0, 0, 0)'],
-                borderColor: 'rgb(255, 255, 255)',
-                data: [arrayG[i][12], arrayG[i][13]],
-            }]
-        },
-
-        options: {
-            hover: {mode: null}
-        }
-    });
-}
-

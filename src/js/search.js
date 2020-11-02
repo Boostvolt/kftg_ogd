@@ -9,10 +9,10 @@ Date           Who           What
     ----------------------------------------------------------------------------------------
 */
 
-var index = 0;
-var gemeindeName = "";
-var selectedYear = 0;
-var year = 0;
+let index = 0;
+let gemeindeName = "";
+let selectedYear = 0;
+let year = 0;
 
 document.getElementById('years').disabled = true;
 
@@ -32,7 +32,7 @@ function getSelectedYear() {
 
 function getIndexNumber() {
     for (let i = 0; i < arrayG.length; i++) {
-        if (arrayG[i][4] == year && arrayG[i][1] === gemeindeName) {
+        if (arrayG[i][4] === year && arrayG[i][1] === gemeindeName) {
             index = i;
             break;
         }
@@ -44,6 +44,7 @@ function displayData() {
 
     drawChart(gemeindeName, index);
     document.getElementById("gemeinde").innerHTML = "Gemeinde: " + arrayG[index][1];
+
     document.getElementById("bezirk").innerHTML = arrayG[index][3];
 
     document.getElementById("maennlich").innerHTML = "Männlich: " + arrayG[index][10];
@@ -52,6 +53,3 @@ function displayData() {
     document.getElementById("schweizer").innerHTML = "Schweizer: " + arrayG[index][12];
     document.getElementById("auslaender").innerHTML = "Ausländer: " + arrayG[index][13];
 }
-
-
-

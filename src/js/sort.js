@@ -9,7 +9,7 @@ Date           Who           What
     ----------------------------------------------------------------------------------------
 */
 
-var arrayG = [];
+let arrayG = [];
 
 function csvToArray(csv) {
     let rows = csv.split("\n");
@@ -19,22 +19,14 @@ function csvToArray(csv) {
     });
 }
 
-var imp = "";
+let imp = "";
 
 httpobj = new XMLHttpRequest();
 httpobj.open('get', 'csv/bevGemeinde.csv', true);
 httpobj.send(null);
 httpobj.onreadystatechange = function () {
-    if (httpobj.readyState == 4 && httpobj.status == 200) {
+    if (httpobj.readyState === 4 && httpobj.status === 200) {
         imp = httpobj.responseText;
         arrayG = csvToArray(imp);
     }
 };
-
-function sliderChange() {
-    let sliderValue = document.getElementById('years').value;
-    document.getElementById('rangeyear').innerHTML = "Jahr: " + sliderValue;
-}
-
-
-

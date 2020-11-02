@@ -1,4 +1,15 @@
-var muniArr = [
+/*
+----------------------------------------------------------------------------------------
+kftg_ogd (https://github.com/Boostvolt/kftg_ogd)
+
+Date           Who           What
+11.05.2020     Ivan & Jan    created
+
+(c) by Ivan & Jan
+    ----------------------------------------------------------------------------------------
+*/
+
+let muniArr = [
     [4436, "Romanshorn"],
     [4451, "Uttwil"],
     [4426, "Kesswil"],
@@ -85,48 +96,4 @@ var muniArr = [
     [4741, "Lommis"]
 ];
 
-var btnP = null;
-
-var max = 0;
-for (i = 0; i < muniArr.length; i++) {
-    if (max < muniArr[i][2]) {
-        max = muniArr[i][2];
-    }
-}
-
 init();
-
-$("button").click(function () {
-    switch (this.id) {
-        case "btn1":
-            $('#graph').empty();
-            btnP = this.id;
-            init();
-            break;
-        case "btn2":
-            $('#graph').empty();
-            btnP = this.id;
-            init();
-            break;
-        case "btn3":
-            $('#graph').empty();
-            btnP = this.id;
-            init();
-            break;
-        case "btn4":
-            $('#graph').empty();
-            btnP = this.id;
-            init();
-            break;
-        case "btn5":
-            $('#graph').empty();
-            btnP = this.id;
-            init();
-            break;
-        default:
-            $('#graph').empty();
-            btnP = null;
-            init();
-            break;
-    }
-});
