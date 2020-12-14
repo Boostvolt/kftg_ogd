@@ -20,13 +20,6 @@ Diese Ressource wurde zu Demonstrationszwecken erstellt. Diese kann in Zukunft i
 - Der Betreuer ist via Forum, Email oder Teams erreichbar.
 - Hilfe darf und soll gegeben werden, aber sie muss von den Lernenden geholt werden!
   
-## Lizenz
-Wenn Sie eine Kopie des Projekts verteilen oder eine Abspaltung des Projekts erstellen, müssen Sie dieses Projekt als Quelle angeben.
+## License
 
-Dieses Programm ist freie Software: Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder gemäß Version 3 der Lizenz oder (nach Ihrer Wahl) jeder späteren Version.
-
-Dieses Programm wird in der Hoffnung verbreitet, dass es nützlich sein wird, aber OHNE JEGLICHE GARANTIE; sogar ohne die implizite Garantie der MARKTGÄNGIGKEIT oder der EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.  Siehe die GNU General Public License für weitere Einzelheiten.
-
-Sie sollten eine Kopie der GNU General Public License zusammen mit diesem Programm erhalten haben.  Falls nicht, siehe http://www.gnu.org/licenses/.
-
-Hinweis: Einige Abhängigkeiten sind externe Bibliotheken, die unter einer anderen, mit der GPLv3 kompatiblen Lizenz stehen können. Sie werden in [NOTICE.md](https://github.com/Boostvolt/kftg_ogd/blob/master/NOTICE.md) erwähnt.
+Copyright © 2020 Boostvolt. All rights reserved.
