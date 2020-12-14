@@ -1,5 +1,8 @@
+<p align="left " >
+  <img src="https://github.com/Boostvolt/kftg_ogd/blob/master/img/ogd.png" alt="OGD" title="OGD">
+</p>
+
 # kftg_ogd_living
-[![License](https://img.shields.io/badge/license-GPL_v3-373737.svg?style=flat)](https://github.com/Boostvolt/kftg_ogd/blob/master/LICENSE.md)
 
 Implementierung für offene Verwaltungsdaten in der Schweiz mit Hilfe einer Webseite.
 
@@ -18,4 +21,4 @@ Diese Ressource wurde zu Demonstrationszwecken erstellt. Diese kann in Zukunft i
   
 ## License
 
-Copyright © 2020 Boostvolt. All rights reserved.
+Copyright © 2020 Jan Kott, Ivan Knöfler. All rights reserved.
