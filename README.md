@@ -19,6 +19,6 @@ Diese Ressource wurde zu Demonstrationszwecken erstellt. Diese kann in Zukunft i
 - Der Betreuer ist via Forum, Email oder Teams erreichbar.
 - Hilfe darf und soll gegeben werden, aber sie muss von den Lernenden geholt werden!
   
-## License
+## Lizenz
 
 Copyright © 2020 Jan Kott, Ivan Knöfler. All rights reserved.
