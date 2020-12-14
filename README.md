@@ -21,4 +21,4 @@ Diese Ressource wurde zu Demonstrationszwecken erstellt. Diese kann in Zukunft i
   
 ## Lizenz
 
-Copyright © 2020 Jan Kott, Ivan Knöfler. All rights reserved.
+Copyright © 2020 Jan (Boostvolt). Alle Rechte vorbehalten.
